@@ -1,0 +1,323 @@
+{
+    "responses": [{
+            "sessionId": "1234",
+            "offerLists": [{
+                    "offers": [
+                        {
+                            "score": 90,
+                            "code": [
+                                "000001394"
+                            ],
+                            "attributes": [
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "AppImage"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "Brand"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "Category"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "CostPerOffer"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "EmailImage"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "% off handbags $100 or more",
+                                    "n": "OfferDescription"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 25.0,
+                                    "n": "OfferDiscountPercent"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "\/shop\/en\/auroraesite\/apparel\/women\/handbags",
+                                    "n": "OfferLink"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "Handbag sale !",
+                                    "n": "OfferTitle"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "RTSelectionMethod"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 90.0,
+                                    "n": "ScoreInDouble"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "SKU"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 115.0,
+                                    "n": "UACIInteractionPointID"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "Realtime_IP",
+                                    "n": "UACIInteractionPointName"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 1395.0,
+                                    "n": "UACIOfferID"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 495.0,
+                                    "n": "UACISegmentID"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 141.0,
+                                    "n": "UACIZoneID"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "https:\/\/my.digitalexperience.ibm.com\/238c3c4f-7f22-4c36-9490-61e3dcba3f2b\/dxdam\/fd\/fd6be16e-2464-43ee-89d7-530e05806afd\/Handbag_Sale.png",
+                                    "n": "WebHeroImage"
+                                }
+                            ],
+                            "treatmentCode": "16cf.573.61404e42.590b36b2",
+                            "n": "Sale",
+                            "desc": ""
+                        },
+                        {
+                            "score": 80,
+                            "code": [
+                                "000001388"
+                            ],
+                            "attributes": [
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "AppImage"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "Brand"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "Category"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "CostPerOffer"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "EmailImage"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "Check out whats new this season in women's dresses",
+                                    "n": "OfferDescription"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "OfferDiscountPercent"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "OfferLink"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "New arrivals",
+                                    "n": "OfferTitle"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "RTSelectionMethod"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 80.0,
+                                    "n": "ScoreInDouble"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "SKU"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 115.0,
+                                    "n": "UACIInteractionPointID"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "Realtime_IP",
+                                    "n": "UACIInteractionPointName"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 1389.0,
+                                    "n": "UACIOfferID"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 495.0,
+                                    "n": "UACISegmentID"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 141.0,
+                                    "n": "UACIZoneID"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "https:\/\/my.digitalexperience.ibm.com\/238c3c4f-7f22-4c36-9490-61e3dcba3f2b\/dxdam\/5a\/5aa44f52-7b27-4b24-b1b9-e0d368ae25a7\/New_Arrivals.png",
+                                    "n": "WebHeroImage"
+                                }
+                            ],
+                            "treatmentCode": "16cf.56d.f7f7d0.fffffffff0aa7510",
+                            "n": "New_Arrival",
+                            "desc": ""
+                        },
+                        {
+                            "score": 70,
+                            "code": [
+                                "000001378"
+                            ],
+                            "attributes": [
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "AppImage"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "Brand"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "Category"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "CostPerOffer"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "EmailImage"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "OfferDescription"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "OfferDiscountPercent"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "OfferLink"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "Get 10% your next purchase by using your Aurora credit card !",
+                                    "n": "OfferTitle"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 0.0,
+                                    "n": "RTSelectionMethod"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 70.0,
+                                    "n": "ScoreInDouble"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "x",
+                                    "n": "SKU"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 115.0,
+                                    "n": "UACIInteractionPointID"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "Realtime_IP",
+                                    "n": "UACIInteractionPointName"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 1379.0,
+                                    "n": "UACIOfferID"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 495.0,
+                                    "n": "UACISegmentID"
+                                },
+                                {
+                                    "t": "numeric",
+                                    "v": 141.0,
+                                    "n": "UACIZoneID"
+                                },
+                                {
+                                    "t": "string",
+                                    "v": "https:\/\/my.digitalexperience.ibm.com\/238c3c4f-7f22-4c36-9490-61e3dcba3f2b\/dxdam\/87\/87ba0fdd-b397-489b-84b5-4bc4af633c73\/Aurora_Web_Credit_Card.png",
+                                    "n": "WebHeroImage"
+                                }
+                            ],
+                            "treatmentCode": "16cf.563.4da20dae.6b3d6efe",
+                            "n": "Credit_Card_Use",
+                            "desc": ""
+                        }
+                    ],
+                    "ip": "Realtime_IP"
+                }
+            ],
+            "version": "1.0.0",
+            "statusCode": 0
+        },
+        {
+            "sessionId": "1234",
+            "version": "1.0.0",
+            "statusCode": 0
+        }
+    ],
+    "batchStatusCode": 0
+}
